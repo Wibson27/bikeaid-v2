@@ -4,6 +4,9 @@
 
 <br>
 <br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wibson27/bikeaid-v2/main/public/images/hero6.jpg" alt="BikeAid Banner" width="800"/>
+</div>
 <br>
 <br>
 
