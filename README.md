@@ -100,7 +100,10 @@ Lihat versi live dari landing page ini yang di-deploy di Vercel:
 ➡️ **[https://bikeaid-v2.vercel.app/](https://bikeaid-v2.vercel.app/)**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wibson27/bikeaid-v2/main/public/images/screenshot-demo.png" alt="BikeAid Landing Page Screenshot" width="800"/>
+  <img src="https://raw.githubusercontent.com/Wibson27/bikeaid-v2/main/public/images/lp1.png" alt="BikeAid Landing Page Screenshot" width="800"/>
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wibson27/bikeaid-v2/main/public/images/lp2.png" alt="BikeAid Landing Page Screenshot" width="800"/>
 </div>
 
 <br>
@@ -128,7 +131,7 @@ Proyek ini menggunakan struktur direktori `src` yang direkomendasikan untuk orga
 ├── package.json            \# Dependensi dan skrip proyek
 └── ...
 
-```
+````
 
 <br>
 
