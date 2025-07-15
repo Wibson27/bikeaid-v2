@@ -1,8 +1,11 @@
-# ⚡ BikeAid: Bantuan Darurat Motor On-Demand ⚡
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wibson27/bikeaid-v2/main/public/images/logo-banner.png" alt="BikeAid Banner" width="800"/>
+  <h1>⚡ BikeAid: Bantuan Darurat Motor On-Demand ⚡</h1>
 </div>
+
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
   <strong>"Motor Mogok di Jalan? Bantuan Profesional Tiba dalam 30 Menit."</strong>
@@ -149,5 +152,7 @@ Jika Anda memiliki saran untuk perbaikan, silakan *fork* repo ini dan buat *pull
 
 ---
 
-Dibuat dengan ❤️ oleh Kelompok 2 - Informatika.
-```
+<div align="center">
+  Dibuat dengan ❤️ oleh Kelompok 2 - Informatika.
+</div>
+
